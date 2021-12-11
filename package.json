@@ -1,0 +1,16 @@
+{
+  "name": "bmi_calculator",
+  "version": "1.0.0",
+  "description": "This is a simple bmi calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deep Choudhury",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.1",
+    "webpack": "^5.65.0"
+  }
+}

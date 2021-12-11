@@ -1,0 +1,28 @@
+body{
+    background-image: url('https://media.istockphoto.com/photos/leadership-concept-with-paper-airplanes-picture-id1132930101?b=1&k=20&m=1132930101&s=170667a&w=0&h=j8OQqgQaC0VGHIfAT_sz-OOcJtqZlFS_H7gBcAYtQGM=');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.cal{
+    height: 20px;
+    width: 430px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+h1{     
+    color: rgb(1, 79, 110);
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
+.from{
+     position: relative;
+    }
